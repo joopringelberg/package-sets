@@ -40,6 +40,17 @@
     "repo": "https://github.com/slamdata/purescript-aff-reattempt.git",
     "version": "v4.0.0"
   },
+  "aff-sockets": {
+    "dependencies": [
+      "prelude",
+      "aff",
+      "aff-coroutines",
+      "node-readline",
+      "foreign-generic"
+    ],
+    "repo": "https://github.com/joopringelberg/purescript-aff-sockets.git",
+    "version": "v1.1.0"
+  },
   "affjax": {
     "dependencies": [
       "aff",
@@ -355,6 +366,17 @@
     ],
     "repo": "https://github.com/purescript/purescript-datetime.git",
     "version": "v3.4.1"
+  },
+  "datetime-iso": {
+    "dependencies": [
+      "argonaut-codecs",
+      "datetime",
+      "parsing",
+      "newtype",
+      "enums"
+    ],
+    "repo": "https://github.com/jmackie/purescript-datetime-iso.git",
+    "version": "v1.0.2"
   },
   "day": {
     "dependencies": [
