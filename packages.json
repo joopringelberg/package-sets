@@ -1565,6 +1565,16 @@
     "repo": "https://github.com/vmchale/ppp.git",
     "version": "v0.2.2"
   },
+  "perpectives-apitypes": {
+    "dependencies": [
+      "prelude",
+      "aff",
+      "foreign-generic",
+      "argonaut"
+    ],
+    "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
+    "version": "v1.0.0"
+  },
   "phoenix": {
     "dependencies": [
       "options"
