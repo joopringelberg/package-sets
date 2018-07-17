@@ -173,6 +173,16 @@
     "repo": "https://github.com/slamdata/purescript-avar.git",
     "version": "v2.0.1"
   },
+  "avar-monadask": {
+    "dependencies": [
+      "prelude",
+      "avar",
+      "aff",
+      "transformers"
+    ],
+    "repo": "https://github.com/joopringelberg/purescript-avar-monadask.git",
+    "version": "v1.0.0"
+  },
   "behaviors": {
     "dependencies": [
       "prelude",
