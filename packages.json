@@ -1585,6 +1585,17 @@
     "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
     "version": "v1.0.0"
   },
+  "perpectives-couchdb": {
+    "dependencies": [
+      "prelude",
+      "affjax",
+      "foreign-generic",
+      "argonaut",
+      "avar-monadask"
+    ],
+    "repo": "https://github.com/joopringelberg/perspectives-couchdb.git",
+    "version": "v1.0.0"
+  },
   "phoenix": {
     "dependencies": [
       "options"
