@@ -1585,7 +1585,7 @@
     "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
     "version": "v1.0.0"
   },
-  "perpectives-couchdb": {
+  "perspectives-couchdb": {
     "dependencies": [
       "prelude",
       "affjax",
