@@ -2031,6 +2031,14 @@
     "repo": "https://github.com/bodil/purescript-signal.git",
     "version": "v9.0.0"
   },
+  "simplecrypto": {
+    "dependencies": [
+      "prelude",
+      "node-buffer"
+    ],
+    "repo": "https://github.com/alpacaaa/purescript-simplecrypto.git",
+    "version": "v0.1.0"
+  },
   "simple-json": {
     "dependencies": [
       "prelude",
