@@ -1373,6 +1373,11 @@
     "repo": "https://github.com/purescript-node/purescript-node-http.git",
     "version": "v4.2.0"
   },
+  "node-mailer": {
+    "dependencies": [],
+    "repo": "https://github.com/oreshinya/purescript-nodemailer.git",
+    "version": "v0.1.0"
+  },
   "node-path": {
     "dependencies": [],
     "repo": "https://github.com/purescript-node/purescript-node-path.git",
