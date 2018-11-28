@@ -1375,8 +1375,8 @@
   },
   "node-mailer": {
     "dependencies": [],
-    "repo": "https://github.com/oreshinya/purescript-nodemailer.git",
-    "version": "v0.1.0"
+    "repo": "https://github.com/joopringelberg/purescript-nodemailer.git",
+    "version": "v0.1.0-service"
   },
   "node-path": {
     "dependencies": [],
