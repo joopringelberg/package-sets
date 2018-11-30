@@ -67,8 +67,8 @@
       "refs",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/slamdata/purescript-affjax.git",
-    "version": "v5.0.0"
+    "repo": "https://github.com/joopringelberg/purescript-affjax.git",
+    "version": "v5.1.0"
   },
   "ansi": {
     "dependencies": [
