@@ -2339,6 +2339,11 @@
     "repo": "https://github.com/slamdata/purescript-uri.git",
     "version": "v5.1.0"
   },
+  "uuid": {
+    "dependencies": [],
+    "repo": "https://github.com/spicydonuts/purescript-uuid.git",
+    "version": "v4.0.0"
+  },
   "validation": {
     "dependencies": [
       "bifunctors",
