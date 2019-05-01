@@ -390,8 +390,7 @@
       "argonaut-codecs",
       "datetime",
       "parsing",
-      "newtype",
-      "enums"
+      "newtype"
     ],
     "repo": "https://github.com/jmackie/purescript-datetime-iso.git",
     "version": "v3.0.0"
@@ -1581,7 +1580,11 @@
     "version": "v5.0.0"
   },
   "node-mailer": {
-    "dependencies": [],
+    "dependencies": [
+      "aff",
+      "simple-json",
+      "node-streams"
+    ],
     "repo": "https://github.com/joopringelberg/purescript-nodemailer.git",
     "version": "pv1.0.0"
   },
@@ -2742,7 +2745,6 @@
       "generics-rep",
       "globals",
       "integers",
-      "maps",
       "parsing",
       "profunctor-lenses",
       "these",
