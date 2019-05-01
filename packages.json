@@ -38,6 +38,17 @@
     "repo": "https://github.com/nwolverson/purescript-aff-promise.git",
     "version": "v2.1.0"
   },
+  "aff-sockets": {
+    "dependencies": [
+      "prelude",
+      "aff",
+      "aff-coroutines",
+      "node-readline",
+      "foreign-generic"
+    ],
+    "repo": "https://github.com/joopringelberg/purescript-aff-sockets.git",
+    "version": "v1.1.1"
+  },
   "affjax": {
     "dependencies": [
       "aff",
@@ -54,8 +65,8 @@
       "unsafe-coerce",
       "web-xhr"
     ],
-    "repo": "https://github.com/slamdata/purescript-affjax.git",
-    "version": "v9.0.0"
+    "repo": "https://github.com/joopringelberg/purescript-affjax.git",
+    "version": "pv9.0.0"
   },
   "ansi": {
     "dependencies": [
@@ -200,6 +211,16 @@
     ],
     "repo": "https://github.com/slamdata/purescript-avar.git",
     "version": "v3.0.0"
+  },
+  "avar-monadask": {
+    "dependencies": [
+      "prelude",
+      "avar",
+      "aff",
+      "transformers"
+    ],
+    "repo": "https://github.com/joopringelberg/purescript-avar-monadask.git",
+    "version": "v1.0.0"
   },
   "b64": {
     "dependencies": [
@@ -363,6 +384,16 @@
     ],
     "repo": "https://github.com/purescript-web/purescript-canvas.git",
     "version": "v4.0.0"
+  },
+  "datetime-iso": {
+    "dependencies": [
+      "argonaut-codecs",
+      "datetime",
+      "parsing",
+      "newtype"
+    ],
+    "repo": "https://github.com/jmackie/purescript-datetime-iso.git",
+    "version": "v3.0.0"
   },
   "catenable-lists": {
     "dependencies": [
@@ -1639,8 +1670,8 @@
       "node-streams",
       "simple-json"
     ],
-    "repo": "https://github.com/oreshinya/purescript-nodemailer.git",
-    "version": "v2.0.0"
+    "repo": "https://github.com/joopringelberg/purescript-nodemailer.git",
+    "version": "pv1.0.0"
   },
   "nonempty": {
     "dependencies": [
@@ -1764,13 +1795,34 @@
       "transformers",
       "unicode"
     ],
-    "repo": "https://github.com/purescript-contrib/purescript-parsing.git",
-    "version": "v5.0.2"
+    "repo": "https://github.com/joopringelberg/purescript-parsing.git",
+    "version": "pv5.1.0"
   },
   "partial": {
     "dependencies": [],
     "repo": "https://github.com/purescript/purescript-partial.git",
     "version": "v2.0.0"
+  },
+  "perpectives-apitypes": {
+    "dependencies": [
+      "prelude",
+      "aff",
+      "foreign-generic",
+      "argonaut"
+    ],
+    "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
+    "version": "v1.0.0"
+  },
+  "perspectives-couchdb": {
+    "dependencies": [
+      "prelude",
+      "affjax",
+      "foreign-generic",
+      "argonaut",
+      "avar-monadask"
+    ],
+    "repo": "https://github.com/joopringelberg/perspectives-couchdb.git",
+    "version": "v1.2.0"
   },
   "phoenix": {
     "dependencies": [
@@ -2670,6 +2722,20 @@
     "repo": "https://github.com/purescript-contrib/purescript-unsafe-reference",
     "version": "v3.0.1"
   },
+  "uri": {
+    "dependencies": [
+      "arrays",
+      "generics-rep",
+      "globals",
+      "integers",
+      "parsing",
+      "profunctor-lenses",
+      "these",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/slamdata/purescript-uri.git",
+    "version": "v7.0.0"
+  },
   "validation": {
     "dependencies": [
       "bifunctors",
@@ -2710,6 +2776,11 @@
     ],
     "repo": "https://github.com/purescript-web/purescript-web-dom.git",
     "version": "v2.0.0"
+  },
+  "uuid": {
+    "dependencies": [],
+    "repo": "https://github.com/spicydonuts/purescript-uuid.git",
+    "version": "v5.2.2"
   },
   "web-events": {
     "dependencies": [
