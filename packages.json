@@ -2780,7 +2780,7 @@
   "uuid": {
     "dependencies": [],
     "repo": "https://github.com/spicydonuts/purescript-uuid.git",
-    "version": "v4.0.0"
+    "version": "v5.2.2"
   },
   "web-events": {
     "dependencies": [
