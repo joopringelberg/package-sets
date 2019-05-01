@@ -2736,6 +2736,21 @@
     "repo": "https://github.com/purescript-contrib/purescript-unsafe-reference",
     "version": "v3.0.1"
   },
+  "uri": {
+    "dependencies": [
+      "arrays",
+      "generics-rep",
+      "globals",
+      "integers",
+      "maps",
+      "parsing",
+      "profunctor-lenses",
+      "these",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/slamdata/purescript-uri.git",
+    "version": "v7.0.0"
+  },
   "validation": {
     "dependencies": [
       "bifunctors",
