@@ -1583,7 +1583,7 @@
   "node-mailer": {
     "dependencies": [],
     "repo": "https://github.com/joopringelberg/purescript-nodemailer.git",
-    "version": "v0.1.0-service"
+    "version": "pv1.0.0"
   },
   "node-path": {
     "dependencies": [
