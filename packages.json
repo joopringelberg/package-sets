@@ -220,7 +220,7 @@
       "transformers"
     ],
     "repo": "https://github.com/joopringelberg/purescript-avar-monadask.git",
-    "version": "v1.0.0"
+    "version": "v2.0.0"
   },
   "b64": {
     "dependencies": [
@@ -1811,7 +1811,7 @@
       "argonaut"
     ],
     "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
-    "version": "v1.0.0"
+    "version": "v2.0.0"
   },
   "perspectives-couchdb": {
     "dependencies": [
