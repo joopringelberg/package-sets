@@ -1796,7 +1796,7 @@
       "unicode"
     ],
     "repo": "https://github.com/joopringelberg/purescript-parsing.git",
-    "version": "pv5.1.0"
+    "version": "pv5.1.1"
   },
   "partial": {
     "dependencies": [],
