@@ -1822,7 +1822,7 @@
       "avar-monadask"
     ],
     "repo": "https://github.com/joopringelberg/perspectives-couchdb.git",
-    "version": "v2.2.0"
+    "version": "v2.3.0"
   },
   "phoenix": {
     "dependencies": [
