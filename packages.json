@@ -47,7 +47,7 @@
       "foreign-generic"
     ],
     "repo": "https://github.com/joopringelberg/purescript-aff-sockets.git",
-    "version": "v2.0.0"
+    "version": "v2.1.0"
   },
   "affjax": {
     "dependencies": [
