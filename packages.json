@@ -47,7 +47,7 @@
       "foreign-generic"
     ],
     "repo": "https://github.com/joopringelberg/purescript-aff-sockets.git",
-    "version": "v2.1.0"
+    "version": "v2.2.0"
   },
   "affjax": {
     "dependencies": [
@@ -1811,7 +1811,7 @@
       "argonaut"
     ],
     "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
-    "version": "v2.2.0"
+    "version": "v2.3.0"
   },
   "perspectives-couchdb": {
     "dependencies": [
@@ -1822,7 +1822,7 @@
       "avar-monadask"
     ],
     "repo": "https://github.com/joopringelberg/perspectives-couchdb.git",
-    "version": "v2.5.7"
+    "version": "v2.5.8"
   },
   "phoenix": {
     "dependencies": [
