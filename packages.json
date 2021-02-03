@@ -66,7 +66,7 @@
       "web-xhr"
     ],
     "repo": "https://github.com/joopringelberg/purescript-affjax.git",
-    "version": "pv9.0.1"
+    "version": "pv9.1.0"
   },
   "ansi": {
     "dependencies": [
@@ -1811,7 +1811,7 @@
       "argonaut"
     ],
     "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
-    "version": "v2.8.0"
+    "version": "v2.9.0"
   },
   "perspectives-couchdb": {
     "dependencies": [
