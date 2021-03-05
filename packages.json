@@ -1811,7 +1811,7 @@
       "argonaut"
     ],
     "repo": "https://github.com/joopringelberg/perspectives-apitypes.git",
-    "version": "v2.9.0"
+    "version": "v2.10.0"
   },
   "perspectives-couchdb": {
     "dependencies": [
@@ -1822,7 +1822,7 @@
       "avar-monadask"
     ],
     "repo": "https://github.com/joopringelberg/perspectives-couchdb.git",
-    "version": "v2.8.2"
+    "version": "v2.8.3"
   },
   "phoenix": {
     "dependencies": [
