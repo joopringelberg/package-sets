@@ -2623,7 +2623,7 @@
     "repo": "https://github.com/purescript/purescript-transformers.git",
     "version": "v4.2.0"
   },
-  "tree-rose": {
+  "tree": {
     "dependencies": [
       "free",
       "lists",
